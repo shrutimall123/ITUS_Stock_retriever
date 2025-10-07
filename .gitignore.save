@@ -1,0 +1,27 @@
+# Credentials - NEVER upload these!
+*.json
+stocksqlite-*.json
+credentials.json
+
+# Database - Contains sensitive data
+*.db
+prices.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac system files
+.DS_Store
+._*
+
+# Virtual environment
+venv/
+env/
+
+# Personal notes
+notes.txt
+test.pyy
+your-credentials.json
