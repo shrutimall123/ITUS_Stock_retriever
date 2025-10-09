@@ -160,14 +160,6 @@ If the date doesn’t exist, it’ll show the nearest available:
 * All updates are **read-only** on Google Sheets (no destructive actions).
 * Code is modular and can be extended for live market data APIs or dashboards.
 
----
-
-## 👩‍💻 Author
-
-**Shruti (Shuru)**
-Role: *Quantitative Finance / Data Analytics*
-Forward-thinking data engineer passionate about real-time financial automation.
-
----
+--
 
 **© 2025 ITUS Capital Technical Assessment Project**
