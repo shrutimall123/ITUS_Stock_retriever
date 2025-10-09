@@ -143,23 +143,4 @@ If the date doesn’t exist, it’ll show the nearest available:
 
 ---
 
-## 🧰 Troubleshooting
-
-| Issue                        | Cause                 | Solution                         |
-| ---------------------------- | --------------------- | -------------------------------- |
-| `Invalid date format`        | Wrong date syntax     | Use YYYY-MM-DD                   |
-| `No data found`              | Ticker/date not in DB | Check ticker or date range       |
-| `Spreadsheet not found`      | Access issue          | Share Sheet with service account |
-| `Credentials file not found` | Missing JSON          | Place it in same folder          |
-
----
-
-## 🧾 Notes
-
-* `.ipynb_checkpoints` and credentials files are excluded from version control.
-* All updates are **read-only** on Google Sheets (no destructive actions).
-* Code is modular and can be extended for live market data APIs or dashboards.
-
---
-
 **© 2025 ITUS Capital Technical Assessment Project**
